@@ -1,0 +1,2 @@
+/bin/ar qc libHW6.a CMakeFiles/HW6.dir/test.cc.o
+/bin/ranlib libHW6.a
