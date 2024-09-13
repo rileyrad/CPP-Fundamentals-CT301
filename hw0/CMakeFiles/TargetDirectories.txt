@@ -1,0 +1,4 @@
+/s/chopin/g/under/rileyr3/ct301/hw0/CMakeFiles/rebuild_cache.dir
+/s/chopin/g/under/rileyr3/ct301/hw0/CMakeFiles/edit_cache.dir
+/s/chopin/g/under/rileyr3/ct301/hw0/CMakeFiles/hw0.dir
+/s/chopin/g/under/rileyr3/ct301/hw0/CMakeFiles/hw0.tar.dir

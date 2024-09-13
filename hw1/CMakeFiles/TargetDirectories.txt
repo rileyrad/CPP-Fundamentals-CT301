@@ -1,0 +1,4 @@
+/s/chopin/g/under/rileyr3/ct301/hw1/CMakeFiles/edit_cache.dir
+/s/chopin/g/under/rileyr3/ct301/hw1/CMakeFiles/HW1.dir
+/s/chopin/g/under/rileyr3/ct301/hw1/CMakeFiles/rebuild_cache.dir
+/s/chopin/g/under/rileyr3/ct301/hw1/CMakeFiles/submission.dir
