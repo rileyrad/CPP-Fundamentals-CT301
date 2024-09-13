@@ -1,0 +1,5 @@
+/s/chopin/g/under/rileyr3/ct301/hw5/CMakeFiles/edit_cache.dir
+/s/chopin/g/under/rileyr3/ct301/hw5/CMakeFiles/rebuild_cache.dir
+/s/chopin/g/under/rileyr3/ct301/hw5/CMakeFiles/submission.dir
+/s/chopin/g/under/rileyr3/ct301/hw5/CMakeFiles/HW5.dir
+/s/chopin/g/under/rileyr3/ct301/hw5/CMakeFiles/game_test.dir
